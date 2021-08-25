@@ -1,6 +1,6 @@
 ## grishaninvyacheslav.github.io
 
-This domain is used as the package name for the following Android app:
+This domain is used as the package name for the following Android app:\n
 [Stock Stroke Alert](https://github.com/GrishaninVyacheslav/stock-stroke-alert.git)
 
 ### Contacts
